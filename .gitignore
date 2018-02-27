@@ -1,4 +1,5 @@
 tempfile.txt
+tempfile1.txt
 # *.txt
 .DS_Store
 *.zip
